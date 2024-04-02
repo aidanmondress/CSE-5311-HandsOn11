@@ -1,5 +1,5 @@
 /*
- * avlTree.c
+ * binaryTreeAVL.c
  *
  *  Created on: Apr 2, 2024
  *      Author: Aidan Mondress
